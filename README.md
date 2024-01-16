@@ -4,4 +4,4 @@
 
 ## GİF
 
-<img src="Trendyol.gif />
+<img src="Trendyol.gif" />
